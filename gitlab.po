@@ -16056,598 +16056,598 @@ msgid "Could not remove %{user} from %{group}. Cannot remove last group owner."
 msgstr "Nie można usunąć %{user} z %{group}. Nie można usunąć ostatniego właściciela grupy."
 
 msgid "Could not restore the group"
-msgstr "Impossible de restaurer le groupe"
+msgstr "Nie można przywrócić grupy"
 
 msgid "Could not retrieve the list of branches. Use the YAML editor mode, or refresh this page later. To view the list of branches, go to %{boldStart}Code - Branches%{boldEnd}"
-msgstr "Impossible de récupérer la liste des branches protégées. Utilisez le mode éditeur YAML ou actualisez cette page plus tard. Pour consulter la liste des branches protégées, rendez-vous sur %{boldStart}Code - Branches%{boldEnd}"
+msgstr "Nie można pobrać listy gałęzi. Użyj trybu edytora YAML albo odśwież tę stronę później. Aby zobaczyć listę gałęzi, przejdź do %{boldStart}Code – Branches%{boldEnd}"
 
 msgid "Could not retrieve the list of protected branches. Use the YAML editor mode, or refresh this page later. To view the list of protected branches, go to %{boldStart}Settings - Branches%{boldEnd} and expand %{boldStart}Protected branches%{boldEnd}."
-msgstr "Impossible de récupérer la liste des branches protégées. Utilisez le mode éditeur YAML ou actualisez cette page plus tard. Pour consulter la liste des branches protégées, rendez-vous sur %{boldStart}Paramètres - Branches%{boldEnd} et développez %{boldStart}Branches protégées%{boldEnd}."
+msgstr "Nie można pobrać listy chronionych gałęzi. Użyj trybu edytora YAML albo odśwież tę stronę później. Aby zobaczyć listę chronionych gałęzi, przejdź do %{boldStart}Parametry – Branches%{boldEnd} i rozwiń %{boldStart}Protected branches%{boldEnd}."
 
 msgid "Could not revoke access token %{access_token_name}."
-msgstr "Impossible de révoquer le jeton d'accès %{access_token_name}."
+msgstr "Nie można odwołać tokena dostępu %{access_token_name}."
 
 msgid "Could not revoke impersonation token %{token_name}."
-msgstr "Impossible de révoquer le jeton d'usurpation d'identité %{token_name}."
+msgstr "Nie można odwołać tokena podszywania się %{token_name}."
 
 msgid "Could not revoke personal access token %{personal_access_token_name}."
-msgstr "Impossible de révoquer le jeton d'accès personnel %{personal_access_token_name}."
+msgstr "Nie można odwołać osobistego tokena dostępu %{personal_access_token_name}."
 
 msgid "Could not save configuration. Please refresh the page, or try again later."
-msgstr "Impossible d'enregistrer la configuration. Veuillez actualiser la page ou réessayer plus tard."
+msgstr "Nie można zapisać konfiguracji. Odśwież stronę lub spróbuj ponownie później."
 
 msgid "Could not update wiki page"
-msgstr "Impossible de mettre à jour la page wiki"
+msgstr "Nie można zaktualizować strony wiki"
 
 msgid "Could not update wiki template"
-msgstr "Impossible de mettre à jour le modèle wiki"
+msgstr "Nie można zaktualizować szablonu wiki"
 
 msgid "Could not upload your designs as one or more files uploaded are not supported."
-msgstr "Impossible de téléverser vos designs car un ou plusieurs fichiers envoyés ne sont pas pris en charge."
+msgstr "Nie można przesłać projektów — jeden lub więcej przesłanych plików nie jest obsługiwanych."
 
 msgid "Couldn't add issue due to an internal error."
-msgstr "Impossible d'ajouter le ticket en raison d'une erreur interne."
+msgstr "Nie można dodać zgłoszenia z powodu błędu wewnętrznego."
 
 msgid "Couldn't assign policy to project or group"
-msgstr "Impossible d'assigner la politique au projet ou au groupe"
+msgstr "Nie można przypisać polityki do projektu lub grupy"
 
 msgid "Couldn't create link due to an internal error."
-msgstr "Impossible de créer le lien en raison d'une erreur interne."
+msgstr "Nie można utworzyć linku z powodu błędu wewnętrznego."
 
 msgid "Couldn't delete link due to an internal error."
-msgstr "Impossible de supprimer le lien en raison d'une erreur interne."
+msgstr "Nie można usunąć linku z powodu błędu wewnętrznego."
 
 msgid "Couldn't delete work item link due to an internal error."
-msgstr "Impossible de supprimer le lien de l'élément de travail en raison d'une erreur interne."
+msgstr "Nie można usunąć linku elementu pracy z powodu błędu wewnętrznego."
 
 msgid "Couldn't fetch the linked file."
-msgstr "Impossible de récupérer le fichier lié."
+msgstr "Nie można pobrać połączonego pliku."
 
 msgid "Couldn't find event type filters where audit event type(s): %{missing_filters}"
-msgstr "Impossible de trouver des filtres pour le type d'événement que le ou les types d'événements d'audit : %{missing_filters}"
+msgstr "Nie znaleziono filtrów dla typu zdarzenia — typ(y) zdarzeń audytu: %{missing_filters}"
 
 msgid "Couldn't link %{issuables}. You must have at least the Guest role in both %{issuable}'s %{projects_or_groups}."
-msgstr "Impossible de lier les %{issuables}. Vous devez au minimum avoir le rôle d'Invité dans les deux %{projects_or_groups} du %{issuable}."
+msgstr "Nie można połączyć elementów %{issuables}. Musisz mieć co najmniej rolę Gościa w obu %{projects_or_groups} elementu %{issuable}."
 
 msgid "Couldn't link issues. You must have at least the Guest role in both projects."
-msgstr "Impossible de lier les tickets. Vous devez au minimum avoir le rôle d'Invité dans les deux projets."
+msgstr "Nie można powiązać zgłoszeń. Musisz mieć co najmniej rolę Gościa w obu projektach."
 
 msgid "Couldn't re-order due to an internal error."
-msgstr "Impossible d'effectuer la réorganisation en raison d'une erreur interne"
+msgstr "Nie można zmienić kolejności z powodu błędu wewnętrznego."
 
 msgid "Couldn't reorder child due to an internal error."
-msgstr "Impossible de réorganiser l'enfant en raison d'une erreur interne."
+msgstr "Nie można zmienić kolejności elementu podrzędnego z powodu błędu wewnętrznego."
 
 msgid "Counter exceeded max value"
-msgstr "La valeur maximale du compteur est dépassée"
+msgstr "Licznik przekroczył maksymalną wartość"
 
 msgid "Country or region"
-msgstr "Pays ou région"
+msgstr "Kraj lub region"
 
 msgid "Counts"
-msgstr "Nombre"
+msgstr "Liczby"
 
 msgid "Counts reflect children you may not have access to."
-msgstr "Le nombre inclut les enfants dont certains auxquels vous n'avez peut-être pas accès."
+msgstr "Liczby obejmują elementy podrzędne, do których możesz nie mieć dostępu."
 
 msgid "Coverage"
-msgstr "Couverture"
+msgstr "Pokrycie"
 
 msgid "Coverage Fuzzing"
-msgstr "Tests à données aléatoires guidés par la couverture de code"
+msgstr "Fuzzing sterowany pokryciem"
 
 msgid "Create"
-msgstr "Créer"
+msgstr "Utwórz"
 
 msgid "Create %{environment}"
-msgstr "Créer %{environment}"
+msgstr "Utwórz %{environment}"
 
 msgid "Create %{humanized_resource_name}"
-msgstr "Créer %{humanized_resource_name}"
+msgstr "Utwórz %{humanized_resource_name}"
 
 msgid "Create %{workspace} label"
-msgstr "Créer un label de %{workspace}"
+msgstr "Utwórz etykietę %{workspace}"
 
 msgid "Create a Kubernetes cluster"
-msgstr "Créer un cluster Kubernetes"
+msgstr "Utwórz klaster Kubernetes"
 
 msgid "Create a Mattermost team for this group"
-msgstr "Créer une équipe Mattermost pour ce groupe"
+msgstr "Utwórz zespół Mattermost dla tej grupy"
 
 msgid "Create a cluster"
-msgstr "Créer un cluster"
+msgstr "Utwórz klaster"
 
 msgid "Create a group"
-msgstr "Créer un groupe"
+msgstr "Utwórz grupę"
 
 msgid "Create a merge request"
-msgstr "Créer une requête de fusion"
+msgstr "Utwórz merge request"
 
 msgid "Create a merge request branch target."
-msgstr "Créez une branche cible de requête de fusion."
+msgstr "Utwórz docelową gałąź merge requestu."
 
 msgid "Create a merge request for this change"
-msgstr "Créer une requête de fusion pour cette modification"
+msgstr "Utwórz merge request dla tej zmiany"
 
 msgid "Create a merge request, or edit your criteria and try again."
-msgstr "Créez une requête de fusion ou modifiez vos critères et réessayez."
+msgstr "Utwórz merge request albo zmień kryteria i spróbuj ponownie."
 
 msgid "Create a new %{codeStart}.gitlab-ci.yml%{codeEnd} file at the root of the repository to get started."
-msgstr "Créez un nouveau fichier %{codeStart}.gitlab-ci.yml%{codeEnd} à la racine du dépôt pour commencer."
+msgstr "Utwórz nowy plik %{codeStart}.gitlab-ci.yml%{codeEnd} w katalogu głównym repozytorium, aby rozpocząć."
 
 msgid "Create a new branch"
-msgstr "Créer une nouvelle branche"
+msgstr "Utwórz nową gałąź"
 
 msgid "Create a new file as there are no files yet. Afterwards, you'll be able to commit your changes."
-msgstr "Veuillez créer un nouveau fichier, car il n'en existe pas encore. Vous pourrez ensuite valider vos modifications."
+msgstr "Utwórz nowy plik, ponieważ nie istnieją jeszcze żadne pliki. Następnie będziesz mógł zatwierdzić zmiany."
 
 msgid "Create a new fork"
-msgstr "Créer une nouvelle bifurcation"
+msgstr "Utwórz nowy fork"
 
 msgid "Create a new issue"
-msgstr "Créer un nouveau ticket"
+msgstr "Utwórz nowe zgłoszenie"
 
 msgid "Create a new project"
-msgstr "Créer un nouveau projet"
+msgstr "Utwórz nowy projekt"
 
 msgid "Create a new project on GitLab. Store your files, plan your work, and collaborate on code."
-msgstr "Créez un nouveau projet sur GitLab. Stockez vos fichiers, planifiez votre travail et collaborez sur du code."
+msgstr "Utwórz nowy projekt na GitLab. Przechowuj pliki, planuj pracę i współpracuj przy kodzie."
 
 msgid "Create a new release"
-msgstr "Créer une nouvelle version de release"
+msgstr "Utwórz nowe wydanie"
 
 msgid "Create a new repository"
-msgstr "Créer un nouveau dépôt"
+msgstr "Utwórz nowe repozytorium"
 
 msgid "Create a personal access token on your account to pull or push via %{protocol}."
-msgstr "Créer un jeton d'accès personnel pour votre compte afin de récupérer ou pousser par %{protocol}."
+msgstr "Utwórz w swoim koncie osobisty token dostępu, aby wykonywać pull lub push przez %{protocol}."
 
 msgid "Create a project"
-msgstr "Créer un projet"
+msgstr "Utwórz projekt"
 
 msgid "Create an account in %{simple_url} first, and then %{doc_start}connect it to your %{label} account%{doc_end}."
-msgstr "Créez d'abord un compte dans %{simple_url}, puis %{doc_start}connectez-le à votre %{label}compte%{doc_end}."
+msgstr "Najpierw utwórz konto w %{simple_url}, a następnie %{doc_start}połącz je ze swoim kontem %{label}%{doc_end}."
 
 msgid "Create an incident. Incidents are created for each alert triggered."
-msgstr "Créer un incident. Les incidents sont créés pour chaque alerte déclenchée."
+msgstr "Utwórz incydent. Incydenty są tworzone dla każdego wyzwolonego alertu."
 
 msgid "Create branch"
-msgstr "Créer une branche"
+msgstr "Utwórz gałąź"
 
 msgid "Create commit"
-msgstr "Créer une validation"
+msgstr "Utwórz commit"
 
 msgid "Create commit..."
-msgstr "Créer une validation…"
+msgstr "Tworzenie commitu…"
 
 msgid "Create common files more quickly, and standardize their format."
-msgstr "Créez des fichiers communs plus rapidement et standardisez leur format."
+msgstr "Twórz powszechne pliki szybciej i standaryzuj ich format."
 
 msgid "Create confidential merge request"
-msgstr "Créer une requête de fusion confidentielle"
+msgstr "Utwórz poufny merge request"
 
 msgid "Create confidential merge request and branch"
-msgstr "Créer une requête de fusion confidentielle et une branche"
+msgstr "Utwórz poufny merge request i gałąź"
 
 msgid "Create custom type"
-msgstr "Créer un type personnalisé"
+msgstr "Utwórz typ niestandardowy"
 
 msgid "Create directory"
-msgstr "Créer un répertoire"
+msgstr "Utwórz katalog"
 
 msgid "Create empty repository"
-msgstr "Créer un dépôt vide"
+msgstr "Utwórz puste repozytorium"
 
 msgid "Create epic"
-msgstr "Créer une épopée"
+msgstr "Utwórz epik"
 
 msgid "Create file"
-msgstr "Créer un fichier"
+msgstr "Utwórz plik"
 
 msgid "Create from"
-msgstr "Créer à partir de"
+msgstr "Utwórz z"
 
 msgid "Create group"
-msgstr "Créer un groupe"
+msgstr "Utwórz grupę"
 
 msgid "Create group label"
-msgstr "Créer un label de groupe"
+msgstr "Utwórz etykietę grupy"
 
 msgid "Create identity verification exemption"
-msgstr "Créer une dispense de vérification d'identité"
+msgstr "Utwórz wyjątek z weryfikacji tożsamości"
 
 msgid "Create issue"
-msgstr "Créer un ticket"
+msgstr "Utwórz zgłoszenie"
 
 msgid "Create label"
-msgstr "Créer un label"
+msgstr "Utwórz etykietę"
 
 msgid "Create lists from labels. Issues with that label appear in that list."
-msgstr "Créer des listes à partir de labels. Les tickets avec le label sélectionné apparaissent dans cette liste."
+msgstr "Twórz listy na podstawie etykiet. Zgłoszenia z tą etykietą pojawią się na liście."
 
 msgid "Create merge request"
-msgstr "Créer une requête de fusion"
+msgstr "Utwórz merge request"
 
 msgid "Create merge request and branch"
-msgstr "Créer une requête de fusion et une branche"
+msgstr "Utwórz merge request i gałąź"
 
 msgid "Create milestone"
-msgstr "Créer un jalon"
+msgstr "Utwórz kamień milowy"
 
 msgid "Create new"
-msgstr "Créer un nouveau"
+msgstr "Utwórz nowy"
 
 msgid "Create new %{name} by email"
-msgstr "Créer %{name} par courriel"
+msgstr "Utwórz %{name} przez e-mail"
 
 msgid "Create new branch"
-msgstr "Créer une nouvelle branche"
+msgstr "Utwórz nową gałąź"
 
 msgid "Create new confidential %{issuableType}"
-msgstr "Créer un nouvel élément confidentiel de type %{issuableType}"
+msgstr "Utwórz nowy poufny element typu %{issuableType}"
 
 msgid "Create new directory"
-msgstr "Créer un nouveau répertoire"
+msgstr "Utwórz nowy katalog"
 
 msgid "Create new domain"
-msgstr "Créer un nouveau domaine"
+msgstr "Utwórz nową domenę"
 
 msgid "Create new emoji"
-msgstr "Créer un nouvel émoji"
+msgstr "Utwórz nowe emoji"
 
 msgid "Create new file"
-msgstr "Créer un nouveau fichier"
+msgstr "Utwórz nowy plik"
 
 msgid "Create new file or directory"
-msgstr "Créer un nouveau fichier ou répertoire"
+msgstr "Utwórz nowy plik lub katalog"
 
 msgid "Create new label"
-msgstr "Créer un nouveau label"
+msgstr "Utwórz nową etykietę"
 
 msgid "Create new..."
-msgstr "Créer un nouveau…"
+msgstr "Utwórz nowy…"
 
 msgid "Create one"
-msgstr "Créez-en un"
+msgstr "Utwórz jeden"
 
 msgid "Create or close an issue."
-msgstr "Créer ou fermer un ticket."
+msgstr "Utwórz lub zamknij zgłoszenie."
 
 msgid "Create or edit diagram"
-msgstr "Créer ou modifier un diagramme"
+msgstr "Utwórz lub edytuj diagram"
 
 msgid "Create or import your first project"
-msgstr "Créez ou importez votre premier projet"
+msgstr "Utwórz lub zaimportuj swój pierwszy projekt"
 
 msgid "Create project"
-msgstr "Créer le projet"
+msgstr "Utwórz projekt"
 
 msgid "Create project label"
-msgstr "Créer un label de projet"
+msgstr "Utwórz etykietę projektu"
 
 msgid "Create release"
-msgstr "Créer une release"
+msgstr "Utwórz wydanie"
 
 msgid "Create requirement"
-msgstr "Créer une exigence"
+msgstr "Utwórz wymaganie"
 
 msgid "Create service account"
-msgstr "Créer un compte de service"
+msgstr "Utwórz konto serwisowe"
 
 msgid "Create snippet"
-msgstr "Créer un extrait de code"
+msgstr "Utwórz snippet"
 
 msgid "Create testing scenarios by defining project conditions in your development platform."
-msgstr "Créez des scénarios de test en définissant les conditions du projet dans votre plateforme de développement."
+msgstr "Twórz scenariusze testowe, definiując warunki projektu na swojej platformie developerskiej."
 
 msgid "Create topic"
-msgstr "Créer le sujet"
+msgstr "Utwórz temat"
 
 msgid "Create user"
-msgstr "Créer un utilisateur"
+msgstr "Utwórz użytkownika"
 
 msgid "Create wildcard"
-msgstr "Créer un joker"
+msgstr "Utwórz wildcard"
 
 msgid "Create wildcard: %{searchTerm}"
-msgstr "Création de joker : %{searchTerm}"
+msgstr "Utwórz wildcard: %{searchTerm}"
 
 msgid "Create your first page"
-msgstr "Créer votre première page"
+msgstr "Utwórz swoją pierwszą stronę"
 
 msgid "Create your group"
-msgstr "Créer votre groupe"
+msgstr "Utwórz swoją grupę"
 
 msgid "Create, update, or delete a merge request."
-msgstr "Créer, mettre à jour ou supprimer une requête de fusion."
+msgstr "Utwórz, zaktualizuj lub usuń merge request."
 
 msgid "CreateGitTag|Add a message to the tag. Leaving this blank creates a lightweight tag."
-msgstr "Ajoutez un message à l'étiquette. Si vous laissez le champ vide, une étiquette légère est créée."
+msgstr "Dodaj wiadomość do tagu. Pozostawienie pustego tworzy lekki tag."
 
 msgid "CreateGitTag|Set tag message"
-msgstr "Configurer le message de l'étiquette"
+msgstr "Ustaw wiadomość tagu"
 
 msgid "CreateGroup|You can't create a group in a different organization than the parent group."
-msgstr "Vous ne pouvez pas créer de groupe dans une organisation différente du groupe parent."
+msgstr "Nie możesz utworzyć grupy w innej organizacji niż grupa nadrzędna."
 
 msgid "CreateGroup|You don't have permission to create a group in the provided organization."
-msgstr "Vous n'avez pas l'autorisation de créer un groupe dans l'organisation fournie."
+msgstr "Nie masz uprawnień do tworzenia grupy w podanej organizacji."
 
 msgid "CreateGroup|You don’t have permission to create a subgroup in this group."
-msgstr "Vous n'avez pas l'autorisation de créer un sous-groupe dans ce groupe."
+msgstr "Nie masz uprawnień do tworzenia podgrupy w tej grupie."
 
 msgid "CreateGroup|You don’t have permission to create groups."
-msgstr "Vous n'avez pas l'autorisation de créer des groupes."
+msgstr "Nie masz uprawnień do tworzenia grup."
 
 msgid "CreateGroup|You have reached the group limit until you verify your account."
-msgstr "Vous avez atteint la limite de groupe jusqu'à ce que vous vérifiiez votre compte."
+msgstr "Osiągnąłeś limit grup do czasu zweryfikowania konta."
 
 msgid "CreateTag|Tag"
-msgstr "Étiquette"
+msgstr "Tag"
 
 msgid "CreateTimelogForm|Add time entry"
-msgstr "Ajouter une entrée de temps"
+msgstr "Dodaj wpis czasu"
 
 msgid "CreateTimelogForm|An error occurred while saving the time entry."
-msgstr "Une erreur s'est produite lors de l'enregistrement de l'entrée de temps."
+msgstr "Wystąpił błąd podczas zapisywania wpisu czasu."
 
 msgid "CreateTimelogForm|Cancel"
-msgstr "Annuler"
+msgstr "Anuluj"
 
 msgid "CreateTimelogForm|Example: 1h 30m"
-msgstr "Exemple : 1 h 30 m"
+msgstr "Przykład: 1h 30m"
 
 msgid "CreateTimelogForm|How do I track and estimate time?"
-msgstr "Comment puis-je suivre et estimer le temps passé ?"
+msgstr "Jak śledzić i szacować czas?"
 
 msgid "CreateTimelogForm|Save"
-msgstr "Enregistrer"
+msgstr "Zapisz"
 
 msgid "CreateTimelogForm|Spent at"
-msgstr "À compter du"
+msgstr "Wydano o"
 
 msgid "CreateTimelogForm|Summary"
-msgstr "Résumé"
+msgstr "Podsumowanie"
 
 msgid "CreateTimelogForm|Time spent"
-msgstr "Temps passé"
+msgstr "Poświęcony czas"
 
 msgid "CreateValueStreamForm|%{name} (default)"
-msgstr "%{name} (par défaut)"
+msgstr "%{name} (domyślne)"
 
 msgid "CreateValueStreamForm|'%{name}' Value Stream created"
-msgstr "Chaîne de valeur « %{name} » créée"
+msgstr "Strumień wartości „%{name}” utworzony"
 
 msgid "CreateValueStreamForm|'%{name}' Value Stream has been successfully created."
-msgstr "La chaîne de valeur '%{name}' a été créée avec succès."
+msgstr "Strumień wartości „%{name}” został pomyślnie utworzony."
 
 msgid "CreateValueStreamForm|'%{name}' Value Stream has been successfully saved."
-msgstr "La chaîne de valeur '%{name}' a été sauvegardée avec succès."
+msgstr "Strumień wartości „%{name}” został pomyślnie zapisany."
 
 msgid "CreateValueStreamForm|'%{name}' Value Stream saved"
-msgstr "Chaîne de valeurs « %{name} » enregistrée"
+msgstr "Strumień wartości „%{name}” zapisany"
 
 msgid "CreateValueStreamForm|Add a stage"
-msgstr "Ajouter une étape"
+msgstr "Dodaj etap"
 
 msgid "CreateValueStreamForm|All default stages are currently visible"
-msgstr "Toutes les étapes par défaut sont actuellement visibles"
+msgstr "Wszystkie etapy domyślne są obecnie widoczne"
 
 msgid "CreateValueStreamForm|An error occurred while creating the custom value stream. Try again."
-msgstr "Une erreur s’est produite lors de la création de la chaîne de valeur personnalisée. Veuillez réessayer."
+msgstr "Wystąpił błąd podczas tworzenia niestandardowego strumienia wartości. Spróbuj ponownie."
 
 msgid "CreateValueStreamForm|Code stage start"
-msgstr "Début de l'étape de code"
+msgstr "Początek etapu kodowania"
 
 msgid "CreateValueStreamForm|Create from default template"
-msgstr "Créer à partir du modèle par défaut"
+msgstr "Utwórz z szablonu domyślnego"
 
 msgid "CreateValueStreamForm|Create from no template"
-msgstr "Créer sans l'aide d'un modèle"
+msgstr "Utwórz bez szablonu"
 
 msgid "CreateValueStreamForm|Default stages"
-msgstr "Étapes par défaut"
+msgstr "Etapy domyślne"
 
 msgid "CreateValueStreamForm|Default stages can only be hidden or re-ordered"
-msgstr "Les étapes par défaut peuvent uniquement être masquées ou réordonnées"
+msgstr "Etapy domyślne można tylko ukryć lub zmienić ich kolejność"
 
 msgid "CreateValueStreamForm|Edit value stream"
-msgstr "Modifier la chaîne de valeur"
+msgstr "Edytuj strumień wartości"
 
 msgid "CreateValueStreamForm|Editing stage"
-msgstr "Modification de l'étape"
+msgstr "Edycja etapu"
 
 msgid "CreateValueStreamForm|End event"
-msgstr "Événement de fin"
+msgstr "Zdarzenie końcowe"
 
 msgid "CreateValueStreamForm|End event label"
-msgstr "Label de l'événement de fin"
+msgstr "Etykieta zdarzenia końcowego"
 
 msgid "CreateValueStreamForm|End event: "
-msgstr "Fin de l'événement : "
+msgstr "Zdarzenie końcowe: "
 
 msgid "CreateValueStreamForm|Enter stage name"
-msgstr "Entrez un nom pour l'étape"
+msgstr "Wprowadź nazwę etapu"
 
 msgid "CreateValueStreamForm|Enter value stream name"
-msgstr "Entrez le nom de la chaîne de valeurs"
+msgstr "Wprowadź nazwę strumienia wartości"
 
 msgid "CreateValueStreamForm|Issue stage end"
-msgstr "Fin de l'étape de ticket"
+msgstr "Koniec etapu zgłoszenia"
 
 msgid "CreateValueStreamForm|Maximum length %{maxLength} characters"
-msgstr "Longueur maximale de %{maxLength} caractères"
+msgstr "Maksymalna długość %{maxLength} znaków"
 
 msgid "CreateValueStreamForm|Minimum length %{minLength} characters"
-msgstr "%{minLength} caractères minimum"
+msgstr "Minimalna długość %{minLength} znaków"
 
 msgid "CreateValueStreamForm|Name is required"
-msgstr "Le nom est obligatoire"
+msgstr "Nazwa jest wymagana"
 
 msgid "CreateValueStreamForm|New Value Stream"
-msgstr "Nouvelle chaîne de valeurs"
+msgstr "Nowy strumień wartości"
 
 msgid "CreateValueStreamForm|New stage"
-msgstr "Nouvelle étape"
+msgstr "Nowy etap"
 
 msgid "CreateValueStreamForm|New value stream"
-msgstr "Nouvelle chaîne de valeur"
+msgstr "Nowy strumień wartości"
 
 msgid "CreateValueStreamForm|Plan stage start"
-msgstr "Début de l'étape de planification"
+msgstr "Początek etapu planowania"
 
 msgid "CreateValueStreamForm|Please select a start event first"
-msgstr "Veuillez d'abord sélectionner un événement de début"
+msgstr "Najpierw wybierz zdarzenie początkowe"
 
 msgid "CreateValueStreamForm|Please select an end event"
-msgstr "Veuillez sélectionner un événement de fin"
+msgstr "Wybierz zdarzenie końcowe"
 
 msgid "CreateValueStreamForm|Recover hidden stage"
-msgstr "Récupérer l'étape masquée"
+msgstr "Przywróć ukryty etap"
 
 msgid "CreateValueStreamForm|Restore defaults"
-msgstr "Restaurer les valeurs par défaut"
+msgstr "Przywróć domyślne"
 
 msgid "CreateValueStreamForm|Restore stage"
-msgstr "Restaurer l'étape"
+msgstr "Przywróć etap"
 
 msgid "CreateValueStreamForm|Save value stream"
-msgstr "Enregistrer la chaîne de valeur"
+msgstr "Zapisz strumień wartości"
 
 msgid "CreateValueStreamForm|Select end event"
-msgstr "Sélectionner l'événement de fin"
+msgstr "Wybierz zdarzenie końcowe"
 
 msgid "CreateValueStreamForm|Select start event"
-msgstr "Sélectionner l'événement de début"
+msgstr "Wybierz zdarzenie początkowe"
 
 msgid "CreateValueStreamForm|Stage %{index}"
-msgstr "Étape %{index}"
+msgstr "Etap %{index}"
 
 msgid "CreateValueStreamForm|Stage name already exists"
-msgstr "Ce nom d'étape existe déjà"
+msgstr "Taka nazwa etapu już istnieje"
 
 msgid "CreateValueStreamForm|Stage name is required"
-msgstr "Le nom de l'étape est obligatoire"
+msgstr "Nazwa etapu jest wymagana"
 
 msgid "CreateValueStreamForm|Start event"
-msgstr "Événement de début"
+msgstr "Zdarzenie początkowe"
 
 msgid "CreateValueStreamForm|Start event changed, please select a valid end event"
-msgstr "L'événement de début a été modifié. Veuillez sélectionner un événement de fin valide"
+msgstr "Zdarzenie początkowe zostało zmienione — wybierz poprawne zdarzenie końcowe"
 
 msgid "CreateValueStreamForm|Start event label"
-msgstr "Label de l'événement de début"
+msgstr "Etykieta zdarzenia początkowego"
 
 msgid "CreateValueStreamForm|Start event: "
-msgstr "Début de l'événement : "
+msgstr "Zdarzenie początkowe: "
 
 msgid "CreateValueStreamForm|Update stage"
-msgstr "Mettre à jour l'étape"
+msgstr "Zaktualizuj etap"
 
 msgid "CreateValueStreamForm|Value Stream name"
-msgstr "Nom de la chaîne de valeurs"
+msgstr "Nazwa strumienia wartości"
 
 msgid "Created"
-msgstr "Créé"
+msgstr "Utworzono"
 
 msgid "Created %{date} ago"
-msgstr "Créé il y a %{date}"
+msgstr "Utworzono %{date} temu"
 
 msgid "Created %{epicTimeagoDate}"
-msgstr "Création le %{epicTimeagoDate}"
+msgstr "Utworzono %{epicTimeagoDate}"
 
 msgid "Created %{timeAgo}"
-msgstr "Création : %{timeAgo}"
+msgstr "Utworzono %{timeAgo}"
 
 msgid "Created %{timeAgo} by %{author}"
-msgstr "Création : %{timeAgo} par %{author}"
+msgstr "Utworzono %{timeAgo} przez %{author}"
 
 msgid "Created %{timeAgo} by %{email} via %{author}"
-msgstr "Création il y a %{timeAgo} par %{email} via %{author}"
+msgstr "Utworzono %{timeAgo} przez %{email} jako %{author}"
 
 msgid "Created %{time_ago}"
-msgstr "Créé %{time_ago}"
+msgstr "Utworzono %{time_ago}"
 
 msgid "Created %{timeago}"
-msgstr "Créé il y a %{timeago}"
+msgstr "Utworzono %{timeago}"
 
 msgid "Created %{timestamp}"
-msgstr "Créé %{timestamp}"
+msgstr "Utworzono %{timestamp}"
 
 msgid "Created At"
-msgstr "Créé à"
+msgstr "Utworzono"
 
 msgid "Created Date"
-msgstr "Date de création"
+msgstr "Data utworzenia"
 
 msgid "Created On"
-msgstr "Date de création"
+msgstr "Utworzono"
 
 msgid "Created a branch and a merge request to resolve this issue."
-msgstr "Branche et requête de fusion créées pour résoudre ce ticket."
+msgstr "Utworzono gałąź i merge request, aby rozwiązać to zgłoszenie."
 
 msgid "Created branch '%{branch_name}' and a merge request to resolve this issue."
-msgstr "Branche « %{branch_name} » et requête de fusion créées pour résoudre ce ticket."
+msgstr "Utworzono gałąź „%{branch_name}” oraz merge request w celu rozwiązania zgłoszenia."
 
 msgid "Created by %{job}"
-msgstr "Création par %{job}"
+msgstr "Utworzono przez %{job}"
 
 msgid "Created by me"
-msgstr "Créé par moi"
+msgstr "Utworzone przeze mnie"
 
 msgid "Created by:"
-msgstr "Création par :"
+msgstr "Utworzone przez:"
 
 msgid "Created compliance violations if any were found"
-msgstr "A créé des violations de conformité, le cas échéant"
+msgstr "Utworzono naruszenia zgodności, jeśli je znaleziono"
 
 msgid "Created date"
-msgstr "Date de création"
+msgstr "Data utworzenia"
 
 msgid "Created in"
-msgstr "Créé dans"
+msgstr "Utworzone w"
 
 msgid "Created issue %{issueLink}"
-msgstr "Ticket créé %{issueLink}"
+msgstr "Utworzono zgłoszenie %{issueLink}"
 
 msgid "Created issue %{issueLink} at %{projectLink}"
-msgstr "Ticket %{issueLink} créé dans %{projectLink}"
+msgstr "Utworzono zgłoszenie %{issueLink} w %{projectLink}"
 
 msgid "Created merge request %{mergeRequestLink}"
-msgstr "requête de fusion %{mergeRequestLink} créée"
+msgstr "Utworzono merge request %{mergeRequestLink}"
 
 msgid "Created merge request %{mergeRequestLink} at %{projectLink}"
-msgstr "requête de fusion %{mergeRequestLink} créée dans %{projectLink}"
+msgstr "Utworzono merge request %{mergeRequestLink} w %{projectLink}"
 
 msgid "Created on"
-msgstr "Créé le"
+msgstr "Utworzono"
 
 msgid "Created on %{created_at}"
-msgstr "Créé le %{created_at}"
+msgstr "Utworzono %{created_at}"
 
 msgid "Created on %{date}"
-msgstr "Créé le %{date}"
+msgstr "Utworzono %{date}"
 
 msgid "Created on:"
-msgstr "Créé le :"
+msgstr "Utworzono:"
 
 msgid "Creates a branch and a merge request to resolve this issue."
-msgstr "Crée une branche et une requête de fusion pour résoudre ce ticket."
+msgstr "Tworzy gałąź i merge request, aby rozwiązać to zgłoszenie."
 
 msgid "Creates a reminder to-do item after the specified time period."
-msgstr "Crée un élément pense-bête de rappel après la période spécifiée."
+msgstr "Tworzy element przypomnienia po upływie określonego czasu."
 
 msgid "Creates a summary of all comments"
-msgstr "Crée un résumé de tous les commentaires"
+msgstr "Tworzy podsumowanie wszystkich komentarzy"
 
 msgid "Creates branch '%{branch_name}' and a merge request to resolve this issue."
-msgstr "Crée la branche « %{branch_name} » et une requête de fusion pour résoudre ce ticket."
+msgstr "Tworzy gałąź „%{branch_name}” i merge request, aby rozwiązać zgłoszenie."
 
 msgid "Creating"
-msgstr "Création en cours"
+msgstr "Tworzenie"
 
 msgid "Creating epic"
-msgstr "Création de l'épopée en cours"
+msgstr "Tworzenie epiku"
 
 msgid "Creation of member role is allowed only for root groups"
 msgstr "La création de rôle de membre n'est autorisée que pour les groupes racines"
